@@ -1,2 +1,3 @@
 # Eddie.github.io
-school
+todays date is  20240913
+
